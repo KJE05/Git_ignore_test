@@ -105,3 +105,5 @@ replay_pid*
 /git_ignore_test/src/main/webapp/WEB-INF/Command.properties
 /git_ignore_test/src/main/java/nocommit_some/NoCommit_5_right.java
 /git_ignore_test/src/main/java/nocommit_some/NoCommit_6_mistake.java
+/git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack.java
+/git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack2.java
